@@ -1,7 +1,7 @@
 // The only file you need to edit. Fill in the two values below, save, and upload the site again.
 var SITE = {
   email: "possibletweakshelp@yahoo.com",   // your support email
-  checkoutUrl: ""           // the Share link of your product in Lemon Squeezy
+  checkoutUrl: "https://posslbie.gumroad.com/l/vyrwpe"           // the Share link of your product in Lemon Squeezy
 };
 
 document.addEventListener("DOMContentLoaded", function () {
