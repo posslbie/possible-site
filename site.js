@@ -1,6 +1,6 @@
 // The only file you need to edit. Fill in the two values below, save, and upload the site again.
 var SITE = {
-  email: "",         // your support email, e.g. "support@yourdomain.com"
+  email: "possibletweakshelp@yahoo.com",         // your support email, e.g. "support@yourdomain.com"
   checkoutUrl: ""    // the Share link of your product in Lemon Squeezy
 };
 
