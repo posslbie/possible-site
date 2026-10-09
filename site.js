@@ -7,7 +7,7 @@ var SITE = {
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll("[data-email]").forEach(function (a) {
     if (SITE.email) { a.textContent = SITE.email; if (a.tagName === "A") a.href = "mailto:" + SITE.email; }
-    else { a.textContent = "support email (add it in site.js)"; }
+    else { a.textContent = "support email"; }
   });
   document.querySelectorAll("[data-buy]").forEach(function (a) {
     a.href = SITE.checkoutUrl || "index.html#pricing";
